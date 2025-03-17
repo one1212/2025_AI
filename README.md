@@ -17,3 +17,6 @@
 
 ### 우리들 사진
 ![이미지 1](이미지/백지헌.webp)
+
+### 뱃지를 넣는 방법
+https://github.com/one1212/2025_AI/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80/2LyesvAWo9lYmFjIRulNCWPwFf0sxglbML0-IuACrgTnPd3W5nvgskRexnvjaFDS5h6MKwVC8iXFEF4BlbpbaQ.webp
