@@ -22,3 +22,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/사용자이름/저장소이름?style=flat&logo=github)
 ![GitHub forks](https://img.shields.io/github/forks/사용자이름/저장소이름?style=flat&logo=github)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=사용자이름&show_icons=true&theme=radical)
+
+
