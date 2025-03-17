@@ -14,3 +14,6 @@
 10. 김상혁
 11. 박상한.
 12. 이지상
+
+### 우리들 사진
+https://github.com/one1212/2025_AI/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80/2LyesvAWo9lYmFjIRulNCWPwFf0sxglbML0-IuACrgTnPd3W5nvgskRexnvjaFDS5h6MKwVC8iXFEF4BlbpbaQ.webp
