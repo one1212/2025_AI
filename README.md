@@ -19,4 +19,6 @@
 ![이미지 1](이미지/백지헌.webp)
 
 ### 뱃지를 넣는 방법
-https://github.com/one1212/2025_AI/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80/2LyesvAWo9lYmFjIRulNCWPwFf0sxglbML0-IuACrgTnPd3W5nvgskRexnvjaFDS5h6MKwVC8iXFEF4BlbpbaQ.webp
+![GitHub stars](https://img.shields.io/github/stars/사용자이름/저장소이름?style=flat&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/사용자이름/저장소이름?style=flat&logo=github)
+
